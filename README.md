@@ -1,27 +1,57 @@
-# Project Name
+# FCC BUILDING A QUIZ
 
-> One paragraph statement about the project.
+> A Building a Quiz webpage using accessibility tools such as keyboard shortcuts, ARIA atributes,
+> and design best practices.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description of the project and its features.
-
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5 Properties,
+  `header`, `img`, `nav`, `ul`, `li`,
+  `form`, `section`, `h1`, `h2`, `label`
+  `input`, `fieldset`, `legend` etc.
+
+- CSS Properties,
+  `body; `background`, `font-family`,
+
+header;
+`width`, `height`, `background-color`, `justify-color`
+`align-item`, `position`.
+
+#logo;
+`width`, `background-color`, `padding`
+`aspect-ratio`.
+
+nav > ul > li:hover,
+`background-color`, `color` `cursor`
+
+.info;
+`padding`
+
+.info label {
+``width`, `min-width`
+`text-align`
+
+.question-block;
+`text-align`,`display`,`width`, `margin-top`,
+`padding-top`
+
+- Linters
+- [Prettier](https://prettier.io/),
+- [Stylelint](https://stylelint.io/).
+- GitHub Action
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://building-a-quiz-project-oladele.netlify.app/)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone git@github.com:olayinka-oladele/Building-a-quiz.git
 
 ```
 
@@ -70,9 +100,9 @@ yarn hint
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@olayinka-oladele](https://github.com/olayinka-oladele)
+- Freecodecamp: [@olayinka-oladele](https://freecodecamp.com/author)
+- Linkedin: [@olayinka-oladele](https://www.linkedin.com/in/author/)
 
 ## 🤝 Contributing
 
@@ -86,9 +116,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- [freecodecamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-68)
 
 ## 📝 License
 
